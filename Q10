@@ -1,0 +1,9 @@
+def rem_vowel(string):
+    vowels = ['a','e','i','o','u']
+    result = [letter for letter in string if letter.lower() in vowels]
+    result = ''.join(result)
+    print(result)
+ 
+
+string = "Hello, have a good day"
+rem_vowel(string)
