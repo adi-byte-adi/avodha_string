@@ -1,0 +1,2 @@
+tup = (‘sister’,’USA’)
+print " I have a %d and she stays at %d with her husband" % tup
