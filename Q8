@@ -1,0 +1,7 @@
+A="Carlsen checkmated by Vishy Anand"
+B="checkmate"
+
+if B in A:
+    print("Found!")
+else:
+    print("Not found!")
