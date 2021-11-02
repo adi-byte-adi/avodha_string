@@ -1,0 +1,8 @@
+main_list=[]
+name_list_1= [“Nisam”, “Ash”, “Jason”, “Pranav”]
+name_list_2= [“Pranav”, “Jason”]
+for i in list_2:
+    if i not in list_1:
+        main_list.append(i)
+
+print(main_list)
