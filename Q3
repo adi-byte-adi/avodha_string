@@ -1,0 +1,4 @@
+name = input("Please input your name:")
+age = input("Please input your age:")
+
+print("Hello,%s. You are %d years old now. You can access to this program!",name,age)
