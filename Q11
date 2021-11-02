@@ -1,0 +1,3 @@
+a = ['anu','roy','ujwel','jackson','eric','dane','wusha','daniel','say','ray']
+a.sort()
+print a
